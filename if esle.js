@@ -1,5 +1,5 @@
 
-
+//using ifelse to identify the IUbat marks
 var  score =75
 
     if (score >= 80) {
@@ -30,7 +30,7 @@ var  score =75
 
 
 
-
+//Using if else with logical operators
 
     var  score =65
         if (score >= 80 && score <= 100) {
