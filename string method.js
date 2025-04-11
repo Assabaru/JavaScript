@@ -8,3 +8,11 @@ console.log(c.endsWith("Akash"))
 console.log(c.includes("am"))
 console.log(c.indexOf("am"))
 console.log('b'.toUpperCase())
+console.log('B'.toLowerCase())
+console.log(c.split(" "))
+
+
+
+
+
+
