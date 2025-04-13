@@ -12,6 +12,6 @@ var obj = object ()
 object.a = 10
 console.log(object)
 var object2 = new object()
-object2.a = 30
+object2.b = 30
 console.log(object2)
  
